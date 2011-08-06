@@ -21,4 +21,4 @@ successful, and configure any settings
 
 # License
 -----------------------------
-See [LICENSE](http://github.com/tjlytle/OpenVBX-CallBucket/blob/master/LICENSE).
+See [LICENSE](https://github.com/tjlytle/FlowTest/blob/master/LICENSE).
