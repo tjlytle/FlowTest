@@ -1,8 +1,21 @@
-# Flow Test for OpenVBX
+# FlowTest for OpenVBX
 -----------------------------
-Test [OpenVBX][1] flows using the new built-in Browser Phone.
+FlowTest allows you to test [OpenVBX][1] Call Flows - as well as the 
+text-to-speech engine - using the new OpenVBX Browser Phone. Instead of 
+dialing in multiple times as you tweak your flows, you can can now test 
+without even using your phone.
+
+When you start testing, the OpenVBX Browser Phone will ring, but once it's 
+answered, you can continue to test different flows or the text-to-speech 
+engine while the call is ongoing.
+
+The FlowTest link will be on the OpenVBX Admin menu.
+
+[Screencast of the FlowTest Plugin][2].
 
 [1]: http://openvbx.org/
+[2]: http://www.youtube.com/watch?v=fsOjX3UqPkM
+
 
 # Install
 -----------------------------
